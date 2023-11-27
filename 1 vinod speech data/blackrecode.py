@@ -1,6 +1,7 @@
 
 ############# pip install pyaudio pydub ######################
 ########### speek recoding ###############
+####### python any library used voice microphone recoding in mp3 format and speek to audio recoding mp3 format  with try and exception write code ##########
 import pyaudio
 import wave
 from pydub import AudioSegment
