@@ -1,6 +1,6 @@
 
 ############# pip install pyaudio pydub ######################
-
+########### speek recoding ###############
 import pyaudio
 import wave
 from pydub import AudioSegment
