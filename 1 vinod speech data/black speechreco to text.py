@@ -22,3 +22,52 @@ def audio_to_text(audio_file):
 if __name__ == "__main__":
     audio_file = "output.wav"  # Replace with the path to your audio file
     text_result = audio_to_text(audio_file)
+
+
+
+
+
+
+"""
+
+
+
+you can generate spotify clone in drf generic view ,  DjangoFilterBackend, SearchFilter
+you can used requirement any python library 
+
+include functionality 
+
+listing : songs/music, podcasts : audio, video
+functionality podcasts : add & shows or create & list
+storing data : artists, playlists, album
+artists : authentication user list / retrieve only
+playlist : create/ build a playlist with songs or episodes 
+functionality playlist : add songs, remove songs, list, retrieve from playlist ( user)
+album : create/ build a album with songs 
+album functionality : add songs, remove songs, update, list , destroy  from album (only admin )
+
+album like : 
+like, downloads (with permieum)
+like all songs (user/admin)
+
+blend : combine tastes in a shared playlist with firends invite friends to blend 
+
+queue : add to  queue
+
+listen to music ad-free (premieum) : add list premium plan (month wise choices 1,2,3)
+wtite all code 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
