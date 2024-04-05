@@ -1,7 +1,7 @@
 # import EAN13 from barcode module 
 from barcode import EAN13 
 
-# import ImageWriter to generate an image file 
+# import ImageWriter to generate an image file  barcode file
 from barcode.writer import ImageWriter 
   
 
